@@ -1,4 +1,4 @@
-package lista_Exercicios5;
+package poo.ex7;
 
 public class objetoPaciente {
 	

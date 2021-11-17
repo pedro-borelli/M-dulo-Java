@@ -1,4 +1,4 @@
-package lista_Exercicios5;
+package poo.ex1;
 
 public class classeCliente {
 	

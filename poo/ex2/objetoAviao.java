@@ -1,4 +1,4 @@
-package lista_Exercicios5;
+package poo.ex2;
 
 public class objetoAviao {
 	
